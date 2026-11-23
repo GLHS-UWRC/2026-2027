@@ -1,0 +1,12 @@
+[package]
+name = "triple_t"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wgpu = "30"
+winit = "0.30"
+glyphon = "0.12"
+pollster = "0.4"
+env_logger = "0.11"
+
